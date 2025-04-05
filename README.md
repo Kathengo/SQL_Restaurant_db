@@ -9,5 +9,8 @@
 - Find the least and most expensive items:
         Select * from menu_items
         Order by price DESC;
+- How many Italian dishes and find the least and most expensive dishes: 
+        Select COUNT(*) from menu_items
+        WHERE category = 'Italian'
+        ORDER BY price ;
 
-- How many Italian dishes and find the least and most expensive dishes: Use " Count 
