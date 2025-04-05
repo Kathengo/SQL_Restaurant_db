@@ -12,12 +12,12 @@
 
 ###  Objective 1: Use Aggregate Functions [COUNT(Distinct()), AVG(), Min(), Max(), Having Statement, ORDER BY Clause, Group By Clause and SUBQuerries to explore meny_items to answer questions:
       
--- 1. View the order_details table
--- 2. What is the date range of the table?
--- 3. How many orders ware many within this date range?
--- 4. How many items were ordered within this date range?
--- 5. Which orders had the most number of items?
--- 6. How many orders has more than 12 items?
+-1. View the order_details table
+-2. What is the date range of the table?
+-3. How many orders ware many within this date range?
+-4. How many items were ordered within this date range?
+-5. Which orders had the most number of items?
+-6. How many orders has more than 12 items?
 Select count(*)  from
 (Select order_id, COUNT(item_id) AS num_items
 from order_details
