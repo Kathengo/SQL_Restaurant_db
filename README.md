@@ -18,6 +18,13 @@
 #### Objective 3: Ultilize Join Functions,  Aggregate Functions (COUNT(),Sum(),  WHERE Clause, ORDER BY Clause , Limit, ASDC, DESC to sort items.
 - Using [Left Join] to Combine both tables
 - Discover the least and most ordered items in what category?
+
+  ![Screenshot 2025-04-05 184150](https://github.com/user-attachments/assets/86691960-70b1-420d-a02d-64a51be81323)
+
 - Find top 5 orders that spend the most money?
+
+  ![Screenshot 2025-04-05 184156](https://github.com/user-attachments/assets/9d5db783-13e2-4354-8247-843f13b3650f)
 - View the details of the highest spend order.
-- What insights to gather from the result.
+  ![Screenshot 2025-04-05 184538](https://github.com/user-attachments/assets/a99bc71c-67dc-47ea-a20a-e776e04b7628)
+ 
+- What insights to gather from the result ==> Italian is the most highest sales dishes, should keep Italian foods on the menu.
